@@ -4,7 +4,7 @@ import axios from "axios";
 import heroImg from "./assets/hero.jpg";
 import "./App.css";
 
-const API_BASE = "http://localhost:5000";
+const API_BASE = "https://wedding-family-message.onrender.com";
 
 export default function App() {
   // ---- app states
